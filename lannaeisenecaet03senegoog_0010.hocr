@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lannaeisenecaet03senegoog_0010.png"; bbox 0 0 2076 3046; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 395 643 812 831">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 395 643 812 831">
+     <span class='ocr_line' id='line_1_1' title="bbox 431 643 717 755; baseline -0.031 -40"><span class='ocrx_word' id='word_1_1' title='bbox 431 649 505 755; x_wconf 45' lang='lat' dir='ltr'><strong>THE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 522 649 608 713; x_wconf 74' lang='lat' dir='ltr'><strong>uEw</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 623 643 717 708; x_wconf 83' lang='lat' dir='ltr'>YORK</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 395 745 812 831; baseline -0.029 0"><span class='ocrx_word' id='word_1_4' title='bbox 395 755 546 831; x_wconf 85' lang='lat' dir='ltr'>PUBLIC</span> <span class='ocrx_word' id='word_1_5' title='bbox 568 745 771 827; x_wconf 78' lang='lat' dir='ltr'>LIBRARY,</span> <span class='ocrx_word' id='word_1_6' title='bbox 806 747 812 758; x_wconf 89' lang='lat'>&#39;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 430 835 733 960">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 430 835 733 960">
+     <span class='ocr_line' id='line_1_3' title="bbox 430 835 733 960; baseline -0.03 0"><span class='ocrx_word' id='word_1_7' title='bbox 430 835 733 960; x_wconf 47' lang='lat'><strong>7901513</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 394 1003 891 1120">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 394 1003 891 1120">
+     <span class='ocr_line' id='line_1_4' title="bbox 421 1003 891 1062; baseline -0.017 -7"><span class='ocrx_word' id='word_1_8' title='bbox 421 1010 534 1062; x_wconf 70' lang='lat' dir='ltr'>Aswn.</span> <span class='ocrx_word' id='word_1_9' title='bbox 544 1005 659 1054; x_wconf 69' lang='lat' dir='ltr'>LBNOX</span> <span class='ocrx_word' id='word_1_10' title='bbox 673 1003 744 1049; x_wconf 70' lang='lat' dir='ltr'><strong>Auo</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 889 1019 891 1026; x_wconf 66' lang='lat'><strong>¹</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 394 1065 772 1120; baseline -0.021 0"><span class='ocrx_word' id='word_1_12' title='bbox 394 1076 520 1120; x_wconf 65' lang='lat' dir='ltr'><strong>mnan</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 533 1065 772 1118; x_wconf 68' lang='lat' dir='ltr'><strong>rouunmom</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 462 1135 713 1187">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 462 1135 713 1187">
+     <span class='ocr_line' id='line_1_6' title="bbox 462 1135 713 1187; baseline -0.04 1"><span class='ocrx_word' id='word_1_14' title='bbox 462 1135 713 1187; x_wconf 66' lang='lat' dir='ltr'><strong>amab}-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1042 3046">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1042 3046">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1042 3046; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1042 3046; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
